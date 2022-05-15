@@ -1099,7 +1099,7 @@
 		"Surface": 75,
 		"Price": 350,
 		"BedroomsCount": 2,
-		"BathroomsCount": 1,
+		"BathroomsCount": 3,
 		"Orientation":
 		{
 			"N": true,
@@ -1114,7 +1114,7 @@
 		"Surface": 75,
 		"Price": 350,
 		"BedroomsCount": 3,
-		"BathroomsCount": 2,
+		"BathroomsCount": 3,
 		"Orientation":
 		{
 			"N": true,
@@ -1129,7 +1129,7 @@
 		"Surface": 75,
 		"Price": 350,
 		"BedroomsCount": 2,
-		"BathroomsCount": 1,
+		"BathroomsCount": 3,
 		"Orientation":
 		{
 			"N": true,
