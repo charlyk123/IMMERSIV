@@ -8,9 +8,9 @@
 		"Orientation":
 		{
 			"N": false,
-			"E": false,
+			"E": true,
 			"S": false,
-			"W": false
+			"W": true
 		},
 		"Availability": "Reserved"
 	},
@@ -27,7 +27,7 @@
 			"S": true,
 			"W": false
 		},
-		"Availability": "Available"
+		"Availability": "Reserved"
 	},
 	{
 		"Name": "104",
