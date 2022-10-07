@@ -73,8 +73,8 @@
 		"Price": 250,
 		"BedroomsCount": 3,
 		"BathroomsCount": 3,
-		"Depth": 10,
-		"Frontage": 10,
+		"Depth": 0,
+		"Frontage": 0,
 		"Orientation":
 		{
 			"N": false,
@@ -82,6 +82,6 @@
 			"S": false,
 			"W": false
 		},
-		"Availability": "Available"
+		"Availability": "Sold"
 	}
 ]
