@@ -9,7 +9,7 @@
 		"Frontage": 10,
 		"Orientation":
 		{
-			"N": false,
+			"N": true,
 			"E": false,
 			"S": false,
 			"W": false
@@ -28,7 +28,7 @@
 		{
 			"N": false,
 			"E": false,
-			"S": false,
+			"S": true,
 			"W": false
 		},
 		"Availability": "Available"
