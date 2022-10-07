@@ -5,29 +5,33 @@
 		"Price": 250,
 		"BedroomsCount": 3,
 		"BathroomsCount": 2,
+		"Depth": 10,
+		"Frontage": 10,
 		"Orientation":
 		{
 			"N": false,
-			"E": true,
+			"E": false,
 			"S": false,
-			"W": true
+			"W": false
 		},
 		"Availability": "Reserved"
 	},
 	{
 		"Name": "103",
 		"Surface": 50,
-		"Price": 125000,
+		"Price": 125,
 		"BedroomsCount": 4,
 		"BathroomsCount": 1,
+		"Depth": 10,
+		"Frontage": 10,
 		"Orientation":
 		{
-			"N": true,
+			"N": false,
 			"E": false,
-			"S": true,
+			"S": false,
 			"W": false
 		},
-		"Availability": "Reserved"
+		"Availability": "Available"
 	},
 	{
 		"Name": "104",
@@ -35,6 +39,8 @@
 		"Price": 250,
 		"BedroomsCount": 4,
 		"BathroomsCount": 4,
+		"Depth": 10,
+		"Frontage": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -47,15 +53,17 @@
 	{
 		"Name": "105",
 		"Surface": 60,
-		"Price": 10000,
+		"Price": 100,
 		"BedroomsCount": 5,
 		"BathroomsCount": 2,
+		"Depth": 10,
+		"Frontage": 10,
 		"Orientation":
 		{
 			"N": false,
-			"E": true,
+			"E": false,
 			"S": false,
-			"W": true
+			"W": false
 		},
 		"Availability": "Available"
 	},
@@ -65,6 +73,8 @@
 		"Price": 250,
 		"BedroomsCount": 3,
 		"BathroomsCount": 3,
+		"Depth": 10,
+		"Frontage": 10,
 		"Orientation":
 		{
 			"N": false,
