@@ -12,9 +12,9 @@
 		"Orientation":
 		{
 			"N": false,
-			"E": false,
+			"E": true,
 			"S": false,
-			"W": false
+			"W": true
 		},
 		"Availability": "Available",
 		"Url": "Test",
@@ -131,10 +131,10 @@
 		"Depth": 10,
 		"Orientation":
 		{
-			"N": false,
-			"E": false,
-			"S": false,
-			"W": false
+			"N": true,
+			"E": true,
+			"S": true,
+			"W": true
 		},
 		"Availability": "Available",
 		"Url": "Test",
