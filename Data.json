@@ -1,63 +1,14 @@
 [
 	{
-		"Name": "102",
-		"Surface": 60,
-		"Price": 250,
-		"BedroomsCount": 3,
-		"BathroomsCount": 2,
-		"Depth": 10,
-		"Frontage": 10,
-		"Orientation":
-		{
-			"N": true,
-			"E": false,
-			"S": false,
-			"W": false
-		},
-		"Availability": "Reserved"
-	},
-	{
-		"Name": "103",
-		"Surface": 50,
-		"Price": 125,
-		"BedroomsCount": 4,
-		"BathroomsCount": 1,
-		"Depth": 10,
-		"Frontage": 10,
-		"Orientation":
-		{
-			"N": false,
-			"E": false,
-			"S": true,
-			"W": false
-		},
-		"Availability": "Available"
-	},
-	{
-		"Name": "104",
-		"Surface": 50,
-		"Price": 250,
-		"BedroomsCount": 4,
-		"BathroomsCount": 4,
-		"Depth": 10,
-		"Frontage": 10,
-		"Orientation":
-		{
-			"N": false,
-			"E": false,
-			"S": false,
-			"W": false
-		},
-		"Availability": "Available"
-	},
-	{
-		"Name": "105",
-		"Surface": 60,
+		"Name": "test",
+		"Surface": 100,
 		"Price": 100,
-		"BedroomsCount": 5,
-		"BathroomsCount": 2,
-		"Depth": 10,
-		"Frontage": 10,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
+		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
 		"Orientation":
 		{
 			"N": false,
@@ -65,16 +16,23 @@
 			"S": false,
 			"W": false
 		},
-		"Availability": "Available"
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
 	},
 	{
-		"Name": "106",
-		"Surface": 55,
-		"Price": 250,
-		"BedroomsCount": 3,
-		"BathroomsCount": 3,
-		"Depth": 0,
+		"Name": "test",
+		"Surface": 100,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
 		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
 		"Orientation":
 		{
 			"N": false,
@@ -82,6 +40,107 @@
 			"S": false,
 			"W": false
 		},
-		"Availability": "Sold"
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
+	},
+	{
+		"Name": "test",
+		"Surface": 100,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
+		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
+	},
+	{
+		"Name": "test",
+		"Surface": 100,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
+		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
+	},
+	{
+		"Name": "test",
+		"Surface": 100,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
+		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
+	},
+	{
+		"Name": "test",
+		"Surface": 100,
+		"Price": 100,
+		"BedroomsCount": 1,
+		"BathroomsCount": 1,
+		"CarParkingCount": 0,
+		"Frontage": 0,
+		"Storey": 0,
+		"Depth": 0,
+		"Orientation":
+		{
+			"N": false,
+			"E": false,
+			"S": false,
+			"W": false
+		},
+		"Availability": "Available",
+		"Url": "Test",
+		"HouseName": "Test4",
+		"FacadeName": "Test4",
+		"URLVirtualTour": "Test",
+		"URLPlan": "test"
 	}
 ]
