@@ -5,10 +5,10 @@
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -24,15 +24,15 @@
 		"URLPlan": "test"
 	},
 	{
-		"Name": "test",
+		"Name": "test5",
 		"Surface": 100,
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -48,15 +48,15 @@
 		"URLPlan": "test"
 	},
 	{
-		"Name": "test",
+		"Name": "test1",
 		"Surface": 100,
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -72,15 +72,15 @@
 		"URLPlan": "test"
 	},
 	{
-		"Name": "test",
+		"Name": "test2",
 		"Surface": 100,
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -96,15 +96,15 @@
 		"URLPlan": "test"
 	},
 	{
-		"Name": "test",
+		"Name": "test3",
 		"Surface": 100,
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
@@ -120,15 +120,15 @@
 		"URLPlan": "test"
 	},
 	{
-		"Name": "test",
+		"Name": "test4",
 		"Surface": 100,
 		"Price": 100,
 		"BedroomsCount": 1,
 		"BathroomsCount": 1,
-		"CarParkingCount": 0,
-		"Frontage": 0,
-		"Storey": 0,
-		"Depth": 0,
+		"CarParkingCount": 10,
+		"Frontage": 10,
+		"Storey": 10,
+		"Depth": 10,
 		"Orientation":
 		{
 			"N": false,
