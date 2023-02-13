@@ -44,8 +44,8 @@
 		"Url": "Test",
 		"HouseName": "Test4",
 		"FacadeName": "Test4",
-		"URLVirtualTour": null,
-		"URLPlan": null
+		"URLVirtualTour": ,
+		"URLPlan": 
 	},
 	{
 		"Name": "test1",
